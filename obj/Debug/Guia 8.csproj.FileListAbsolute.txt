@@ -1,0 +1,7 @@
+C:\Users\humbe\source\repos\Guia 8\bin\Debug\Guia 8.exe.config
+C:\Users\humbe\source\repos\Guia 8\bin\Debug\Guia 8.exe
+C:\Users\humbe\source\repos\Guia 8\bin\Debug\Guia 8.pdb
+C:\Users\humbe\source\repos\Guia 8\obj\Debug\Guia 8.csprojAssemblyReference.cache
+C:\Users\humbe\source\repos\Guia 8\obj\Debug\Guia 8.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\Guia 8\obj\Debug\Guia 8.exe
+C:\Users\humbe\source\repos\Guia 8\obj\Debug\Guia 8.pdb
